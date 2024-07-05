@@ -14,7 +14,7 @@ Customization: Enter custom names for both players to enhance the gaming experie
 High-Quality Graphics: Play with appealing visuals and fluid animations.
 
 ## Gameplay Video
-[Watch Gameplay Video] (https://youtu.be/e1wfQW33vY8)
+[Watch Gameplay Video](https://youtu.be/e1wfQW33vY8)
 
 ## Technologies Used
 Game Engine: Unity
